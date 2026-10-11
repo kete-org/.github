@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace with your logo: upload it to this repo (e.g. profile/logo.png) -->
-<img src="https://raw.githubusercontent.com/kete-org/.github/main/profile/logo.png" alt="Kete" width="120" />
+<img src="https://raw.githubusercontent.com/kete-org/.github/main/profile/kete-logo-512.png" alt="Kete" width="120" />
 
 # Kete
 
