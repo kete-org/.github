@@ -37,7 +37,7 @@ A developer environment with a built-in coding agent that works alongside engine
 | Repository | Description |
 |---|---|
 | [`keteos`](https://github.com/kete-org/keteos) | KeteOS platform |
-| [`kete-code`](https://github.com/kete-org/kete-code) | Kete Code workbench |
+| [`kete-code`](https://github.com/kete-org/ketecode) | Kete Code workbench |
 | [`docs`](https://github.com/kete-org/docs) | Product and developer documentation |
 
 <!-- Update names and links to match your actual repos, or remove rows for private repos. -->
